@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130923/personal/ezhao/projects/signatures/trunk/hrdtools/R
+END
+loh_test.R
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/128935/personal/ezhao/projects/signatures/trunk/hrdtools/R/loh_test.R
+END
+import_snvs.R
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/126653/personal/ezhao/projects/signatures/trunk/hrdtools/R/import_snvs.R
+END
+nnls_exposures.R
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/130923/personal/ezhao/projects/signatures/trunk/hrdtools/R/nnls_exposures.R
+END
+plot_nnls_results.R
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/127941/personal/ezhao/projects/signatures/trunk/hrdtools/R/plot_nnls_results.R
+END
+test_multiple.R
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/129016/personal/ezhao/projects/signatures/trunk/hrdtools/R/test_multiple.R
+END
+run_snv.R
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/130923/personal/ezhao/projects/signatures/trunk/hrdtools/R/run_snv.R
+END
+mutation_catalog.R
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/126653/personal/ezhao/projects/signatures/trunk/hrdtools/R/mutation_catalog.R
+END
+lst_test.R
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/129724/personal/ezhao/projects/signatures/trunk/hrdtools/R/lst_test.R
+END
+get_reference_signatures.R
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/126653/personal/ezhao/projects/signatures/trunk/hrdtools/R/get_reference_signatures.R
+END
+run_test.R
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/126729/personal/ezhao/projects/signatures/trunk/hrdtools/R/run_test.R
+END
+import_vcf.R
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/128015/personal/ezhao/projects/signatures/trunk/hrdtools/R/import_vcf.R
+END
+import_ranges.R
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/128015/personal/ezhao/projects/signatures/trunk/hrdtools/R/import_ranges.R
+END
+contig_and_filter.R
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/130923/personal/ezhao/projects/signatures/trunk/hrdtools/R/contig_and_filter.R
+END
+plot_hrd.R
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/129724/personal/ezhao/projects/signatures/trunk/hrdtools/R/plot_hrd.R
+END
+tai_test.R
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/128935/personal/ezhao/projects/signatures/trunk/hrdtools/R/tai_test.R
+END

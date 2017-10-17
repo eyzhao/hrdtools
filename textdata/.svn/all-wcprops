@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/123119/personal/ezhao/projects/signatures/trunk/hrdtools/textdata
+END
+centromeres.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/123119/personal/ezhao/projects/signatures/trunk/hrdtools/textdata/centromeres.txt
+END
+signatures_probabilities.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/123119/personal/ezhao/projects/signatures/trunk/hrdtools/textdata/signatures_probabilities.txt
+END
+hg19.chrom.sizes
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/123119/personal/ezhao/projects/signatures/trunk/hrdtools/textdata/hg19.chrom.sizes
+END
+subtelomere_coordinates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/123119/personal/ezhao/projects/signatures/trunk/hrdtools/textdata/subtelomere_coordinates.txt
+END
