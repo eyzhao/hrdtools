@@ -59,4 +59,4 @@ run_test(
 
 If you use HRDtools in your publication, please cite the following study:
 
-[Zhao EY, Shen Y, Pleasance E, ... Jones SJM, Homologous Recombination Deficiency and Platinum-Based Therapy Outcomes in Advanced Breast Cancer. Clinical Cancer Research. 2017 Dec 15;23(24):7521-7530](https://www.ncbi.nlm.nih.gov/pubmed/29246904)source("https://bioconductor.org/biocLite.R")
+[Zhao EY, Shen Y, Pleasance E, ... Jones SJM, Homologous Recombination Deficiency and Platinum-Based Therapy Outcomes in Advanced Breast Cancer. Clinical Cancer Research. 2017 Dec 15;23(24):7521-7530](https://www.ncbi.nlm.nih.gov/pubmed/29246904)
