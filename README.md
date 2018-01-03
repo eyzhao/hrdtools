@@ -2,6 +2,12 @@
 
 HRDtools is an R package which computes HRD scores and mutation signatures in individual tumours.
 
+## Citation
+
+If you use HRDtools in your publication, please cite the following study:
+
+[Zhao EY, Shen Y, Pleasance E, ... Jones SJM, Homologous Recombination Deficiency and Platinum-Based Therapy Outcomes in Advanced Breast Cancer. Clinical Cancer Research. 2017 Dec 15;23(24):7521-7530](https://www.ncbi.nlm.nih.gov/pubmed/29246904)
+
 ## Installation
 
 HRDtools is an R package, and can be installed via devtools.
@@ -43,7 +49,7 @@ run_test(
 )
 ```
 
-where the file `path/to/segments.file.tsv` contains CNV/LOH segments. HRDtools was tested on output from [APOLLOH](http://shahlab.ca/projects/apolloh/), but in theory any CNV caller with LOH support should work.
+where the file `path/to/segments.file.tsv` contains CNV/LOH segments. HRDtools was tested on output from [APOLLOH](http://shahlab.ca/projects/apolloh/), but in theory any CNV caller with LOH support should work, so long as the LOH calling state names are modified to match those given by APOLLOH.
 
 The segments file should contain one segment per row, with the columns `chr, start, end, copynumber, lohtype`. If different column names are used to denote copy number and LOH, they can be specified as follows.
 
@@ -54,9 +60,3 @@ run_test(
   cnv.col = 'tumour_copy_number'
 )
 ```
-
-## Citation
-
-If you use HRDtools in your publication, please cite the following study:
-
-[Zhao EY, Shen Y, Pleasance E, ... Jones SJM, Homologous Recombination Deficiency and Platinum-Based Therapy Outcomes in Advanced Breast Cancer. Clinical Cancer Research. 2017 Dec 15;23(24):7521-7530](https://www.ncbi.nlm.nih.gov/pubmed/29246904)
